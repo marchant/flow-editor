@@ -8,10 +8,10 @@
     "url": "git+ssh://git@github.com:montagestudio/flow-editor.git"
   },
   "dependencies": {
-    "collections": "^5.0.7",
-    "matte": "^0.3.2",
-    "montage": "^17.0.11",
-    "native": "^0.3.3"
+    "collections": "~5.1.x",
+    "matte": "marchant/matte#master",
+    "montage": "marchant/montage#montage-19",
+    "native": "marchant/native#master"
   },
   "devDependencies": {
     "concurrently": "^3.4.0",
